@@ -1,2 +1,0 @@
-# aluramidicarneirinhos
-projeto alura midi
